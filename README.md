@@ -23,7 +23,6 @@
 ### 📫 Contato
 📩 Me chame no [Instagram](https://www.instagram.com/depurando.programacao) ou aqui no GitHub!
 --->
-✨ _"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." – Leonardo da Vinci_
 
 <!---
 victplay/victplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
